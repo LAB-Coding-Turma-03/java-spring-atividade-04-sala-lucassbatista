@@ -27,7 +27,7 @@ public class RepeticaoController {
 		 *  
 		 */
 		String retorno = "";
-		for (int i = 0; i <= numero; i++) {
+		for (int i = 1; i <= numero; i++) {
 			retorno = retorno + String.valueOf(i);
 		  }
 		
